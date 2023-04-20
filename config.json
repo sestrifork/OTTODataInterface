@@ -1,0 +1,814 @@
+[
+  {
+    "facilityName": "Dyssen",
+    "facilityId": "0ab626bc-08f5-4b35-a3ed-3cefb2144674",
+    "squareMeter": "2409",
+    "addressLine": "Dyssen 1",
+    "zip": "8200",
+    "city": "Aarhus N",
+    "state": "Midtjylland",
+    "country": "Denmark",
+    "devices": [
+      {
+        "id": "af8313d0-22c2-49bc-a736-8cde9d6b6415",
+        "tags": {
+          "sensorType": "Heat",
+          "valueType": "Cumulative",
+          "site": "Trifork",
+          "floor": "Zone0",
+          "room": 0,
+          "_timeToUnhealthyMinutes" : 60
+        }
+      },
+      {
+        "id": "e28aa982-3ab8-4be2-9954-8c0ee699dceb",
+        "tags": {
+          "sensorType": "Water",
+          "valueType": "Cumulative",
+          "site": "Trifork",
+          "floor": "Zone0",
+          "room": 0,
+          "_timeToUnhealthyMinutes" : 720
+        }
+      },
+      {
+        "id": "8476e074-7edd-42de-8a41-c4ab62324244",
+        "tags": {
+          "sensorType": "Electricity",
+          "valueType": "Cumulative",
+          "site": "Trifork",
+          "floor": "Zone0",
+          "room": 0,
+          "_timeToUnhealthyMinutes" : 60
+        }
+      },
+      {
+        "id": "74111f93-f893-46f7-b500-5fcaf74a16d9",
+        "tags": {
+          "sensorType": "CO2",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone0",
+          "room": 1,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "eefcd3a0-272d-4090-996d-ecbd99137956",
+        "tags": {
+          "sensorType": "Temperature",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone0",
+          "room": 1,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "f69e449c-3276-41a7-bf1d-d5c0e3f5cae6",
+        "tags": {
+          "sensorType": "CO2",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone0",
+          "room": 2,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "da0df84f-8455-44fc-b21f-bb66f0dab59a",
+        "tags": {
+          "sensorType": "Temperature",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone0",
+          "room": 2,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "5c10d36c-99e6-49b5-af06-0df5b9985b71",
+        "tags": {
+          "sensorType": "Heat",
+          "valueType": "Cumulative",
+          "site": "Trifork",
+          "floor": "Zone1",
+          "room": 0,
+          "_timeToUnhealthyMinutes" : 60
+        }
+      },
+      {
+        "id": "5419cd17-8f71-4139-afa1-dec0bbfd21a4",
+        "tags": {
+          "sensorType": "Water",
+          "valueType": "Cumulative",
+          "site": "Trifork",
+          "floor": "Zone1",
+          "room": 0,
+          "_timeToUnhealthyMinutes" : 720
+        }
+      },
+      {
+        "id": "70ccaf33-1575-4bd5-ae4b-3cb6d857731a",
+        "tags": {
+          "sensorType": "Electricity",
+          "valueType": "Cumulative",
+          "site": "Trifork",
+          "floor": "Zone1",
+          "room": 0,
+          "_timeToUnhealthyMinutes" : 60
+        }
+      },
+      {
+        "id": "e5d40546-2e08-49af-a457-c1f7377739db",
+        "tags": {
+          "sensorType": "CO2",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone1",
+          "room": 1,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "65f7b721-0cd8-45fb-9d19-695ffbf433a7",
+        "tags": {
+          "sensorType": "Temperature",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone1",
+          "room": 1,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "7f662fa2-3b32-4981-aee8-796d211038b4",
+        "tags": {
+          "sensorType": "CO2",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone1",
+          "room": 2,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "f350f38b-548e-4b41-a225-447ab9927aa5",
+        "tags": {
+          "sensorType": "Temperature",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone1",
+          "room": 2,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "ebd40abc-eafe-4ad5-aa2a-dc7eec277515",
+        "tags": {
+          "sensorType": "CO2",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone1",
+          "room": 3,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "aad2b139-67c8-417f-863b-b07eb083fada",
+        "tags": {
+          "sensorType": "Temperature",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone1",
+          "room": 3,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "23ac2a3d-1fe1-4de5-a89d-c9f25031e00b",
+        "tags": {
+          "sensorType": "CO2",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone1",
+          "room": 4,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "9c4403ae-a00e-48c9-9467-068aad70fe19",
+        "tags": {
+          "sensorType": "Temperature",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone1",
+          "room": 4,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "14afe6b9-dbfe-4e7f-b0af-cd0d03c72311",
+        "tags": {
+          "sensorType": "CO2",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone1",
+          "room": 5,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "83e47ae6-53e7-4be3-8054-825d9decd02a",
+        "tags": {
+          "sensorType": "Temperature",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone1",
+          "room": 5,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "4c9a0a1c-9c3f-4ee1-bd92-872c633a4687",
+        "tags": {
+          "sensorType": "CO2",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone1",
+          "room": 6,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "53695fca-36ef-4bfe-a937-f22c82829edc",
+        "tags": {
+          "sensorType": "Temperature",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone1",
+          "room": 6,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "d89bf121-e1b6-409a-85d0-bfa9a9720000",
+        "tags": {
+          "sensorType": "CO2",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone1",
+          "room": 7,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "8b564222-b710-455f-95ba-f9d82ea67d60",
+        "tags": {
+          "sensorType": "Temperature",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone1",
+          "room": 7,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "18030a11-6032-4439-8cf7-2e60f83264eb",
+        "tags": {
+          "sensorType": "CO2",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone1",
+          "room": 8,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "ec611817-5610-4ac1-9e72-f9d4c0a09e47",
+        "tags": {
+          "sensorType": "Temperature",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone1",
+          "room": 8,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "235aea1e-be63-4d31-bec5-3005e15aa9cb",
+        "tags": {
+          "sensorType": "CO2",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone1",
+          "room": 9,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "ac96c34c-65ad-4d82-853a-4ad177be32c3",
+        "tags": {
+          "sensorType": "Temperature",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone1",
+          "room": 9,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "eb73f46e-12a5-4509-a770-b38e0bf1885e",
+        "tags": {
+          "sensorType": "CO2",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone1",
+          "room": 10,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "b56c76f5-5ca2-42c3-a577-03fc534d4d32",
+        "tags": {
+          "sensorType": "Temperature",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone1",
+          "room": 10,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "38f8d0b6-ca48-4db2-a403-36ffcb0caa02",
+        "tags": {
+          "sensorType": "CO2",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone1",
+          "room": 11,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "293109e1-54eb-4401-8672-e5ae0c9f76bd",
+        "tags": {
+          "sensorType": "Temperature",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone1",
+          "room": 11,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "8acb30a3-e045-4968-b435-d392a3918f2f",
+        "tags": {
+          "sensorType": "CO2",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone1",
+          "room": 12,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "5d51aac9-7138-46ce-a73b-a6559e4ea93d",
+        "tags": {
+          "sensorType": "Temperature",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone1",
+          "room": 12,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "19bac737-bcb2-4df0-9b7e-bb5753a431cd",
+        "tags": {
+          "sensorType": "CO2",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone1",
+          "room": 14,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "7aa8cf71-cf26-4a8e-a79b-88e1742adcf6",
+        "tags": {
+          "sensorType": "Temperature",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone1",
+          "room": 14,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "481b48aa-5bba-44ae-a5ab-2c78c68bfcc5",
+        "tags": {
+          "sensorType": "Heat",
+          "valueType": "Cumulative",
+          "site": "Trifork",
+          "floor": "Zone2",
+          "room": 0,
+          "_timeToUnhealthyMinutes" : 60
+        }
+      },
+      {
+        "id": "00a46798-af26-49cd-84e9-fd64a69cbe24",
+        "tags": {
+          "sensorType": "Water",
+          "valueType": "Cumulative",
+          "site": "Trifork",
+          "floor": "Zone2",
+          "room": 0,
+          "_timeToUnhealthyMinutes" : 720
+        }
+      },
+      {
+        "id": "d5fd5b59-e563-4dcc-b671-9ebb680b068d",
+        "tags": {
+          "sensorType": "Electricity",
+          "valueType": "Cumulative",
+          "site": "Trifork",
+          "floor": "Zone2",
+          "room": 0,
+          "_timeToUnhealthyMinutes" : 60
+        }
+      },
+      {
+        "id": "a25e26bd-6777-4ebc-a773-ed11c036e179",
+        "tags": {
+          "sensorType": "CO2",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone2",
+          "room": 1,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "fc3f3422-2af3-45a3-9b8b-4020218234cc",
+        "tags": {
+          "sensorType": "Temperature",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone2",
+          "room": 1,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "8b9b627a-3105-4503-b514-b2ea9776fc43",
+        "tags": {
+          "sensorType": "CO2",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone2",
+          "room": 2,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "cd64e2f9-f93b-408f-af58-b68d93b44875",
+        "tags": {
+          "sensorType": "Temperature",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone2",
+          "room": 2,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "0bcc09c8-9069-4bdc-8947-0512a0143626",
+        "tags": {
+          "sensorType": "CO2",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone2",
+          "room": 3,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "6f8d3525-0b9c-46b1-8797-dc1bcffab75f",
+        "tags": {
+          "sensorType": "Temperature",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone2",
+          "room": 3,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "3ee27086-c8a8-4e9b-bc60-8cdc2074e204",
+        "tags": {
+          "sensorType": "CO2",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone2",
+          "room": 4,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "8f7b92a4-8866-47c8-a052-9739f284f149",
+        "tags": {
+          "sensorType": "Temperature",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone2",
+          "room": 4,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "a68853db-0dca-481e-99bc-47596fd3b360",
+        "tags": {
+          "sensorType": "CO2",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone2",
+          "room": 5,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "52f5f39f-976a-42e1-b1ee-22bc13fb6eab",
+        "tags": {
+          "sensorType": "Temperature",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone2",
+          "room": 5,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "90494e02-1d47-411b-af0c-2485ab665fcc",
+        "tags": {
+          "sensorType": "CO2",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone2",
+          "room": 6,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "74e702b6-4019-4619-9c62-d7ca8c3eb581",
+        "tags": {
+          "sensorType": "Temperature",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone2",
+          "room": 6,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "124ebe4d-b230-4384-850b-8b9636f6f0da",
+        "tags": {
+          "sensorType": "CO2",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone2",
+          "room": 7,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "04882dbe-0168-41f6-8023-f2459f3beffc",
+        "tags": {
+          "sensorType": "Temperature",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone2",
+          "room": 7,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "ff900229-c6dd-435d-a356-85d2186679ca",
+        "tags": {
+          "sensorType": "CO2",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone2",
+          "room": 8,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "3f9a8291-15f5-4eba-b138-4831a3a4d16c",
+        "tags": {
+          "sensorType": "Temperature",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone2",
+          "room": 8,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "9e62c9b1-8563-4854-8e97-3c10774822a9",
+        "tags": {
+          "sensorType": "CO2",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone2",
+          "room": 9,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "3cf458e6-c5cf-4453-9a35-fa4f7a1c0b7a",
+        "tags": {
+          "sensorType": "Temperature",
+          "valueType": "Independent",
+          "site": "Trifork",
+          "floor": "Zone2",
+          "room": 9,
+          "_timeToUnhealthyMinutes" : 10
+        }
+      },
+      {
+        "id": "bbc8c07b-b8e0-47e7-a4f3-7fb8d4768260",
+        "tags": {
+          "sensorType": "Solar",
+          "valueType": "Cumulative",
+          "site": "Trifork",
+          "facilityWise": true,
+          "_timeToUnhealthyMinutes" : 720
+        }
+      },
+      {
+        "id": "b007fc66-9715-4e5a-b4dc-1540c92de99e",
+        "tags": {
+          "sensorType": "PowerImported",
+          "valueType": "Cumulative",
+          "site": "Trifork",
+          "facilityWise": true
+        }
+      },
+      {
+        "id": "40299d14-bf30-4747-8f72-edfe7c26c15a",
+        "tags": {
+          "sensorType": "PowerExported",
+          "valueType": "Cumulative",
+          "site": "Trifork",
+          "facilityWise": true
+        }
+      },
+      {
+        "id": "571313115104142870",
+        "tags": {
+          "sensorType": "Eloverblik",
+          "valueType": "Cumulative",
+          "site": "Trifork",
+          "facilityWise": true
+        }
+      }
+    ]
+  },
+  {
+    "facilityName": "Skribbrogade",
+    "facilityId": "7a6996dc-cffa-468f-bb7f-3c27ef870332",
+    "squareMeter": "1451",
+    "addressLine": "Skibbrogade 5, 2. sal",
+    "zip": "9000",
+    "city": "Aalborg",
+    "state": "Nordjylland",
+    "country": "Denmark",
+    "devices": [
+      {
+        "id": "571313105200816591",
+        "tags": {
+          "sensorType": "Eloverblik",
+          "valueType": "Cumulative",
+          "site": "Trifork",
+          "floor": "1",
+          "room": 0
+        }
+      },
+      {
+        "id": "571313105200816607",
+        "tags": {
+          "sensorType": "Eloverblik",
+          "valueType": "Cumulative",
+          "site": "Trifork",
+          "floor": "2",
+          "room": 0
+        }
+      }
+    ]
+  },  
+  {
+    "facilityName": "Fiskerivej 2H",
+    "facilityId": "35d97a35-908d-46b6-b52a-9f26edd99d51",
+    "squareMeter": "1740",
+    "addressLine": "Fiskerivej 2H",
+    "zip": "8000",
+    "city": "Aarhus C",
+    "state": "Midtjylland",
+    "country": "Denmark",
+    "devices": [
+      {
+        "id": "571313115101113538",
+        "tags": {
+          "sensorType": "Eloverblik",
+          "valueType": "Cumulative",
+          "site": "Trifork",
+          "facilityWise": true
+        }
+      },
+      {
+        "id": "571313115104222831",
+        "tags": {
+          "sensorType": "Eloverblik",
+          "valueType": "Cumulative",
+          "site": "Trifork",
+          "facilityWise": true
+        }
+      }
+    ]
+  },
+  {
+    "facilityName": "Borgergade 24B",
+    "facilityId": "663632d2-7796-45a5-931f-95ab869b8c79",
+    "squareMeter": "937.5",
+    "addressLine": "Borgergade 24B, 1.",
+    "zip": "1300",
+    "city": "København K",
+    "state": "Hovedstaden",
+    "country": "Denmark",
+    "devices": [
+      {
+        "id": "571313161170186867",
+        "tags": {
+          "sensorType": "Eloverblik",
+          "valueType": "Cumulative",
+          "site": "Trifork",
+          "floor": "1",
+          "room": 0
+        }
+      }
+    ]
+  },
+  {
+    "facilityName": "Europaplads",
+    "facilityId": "1780f559-71ac-4075-9891-820cb80378f5",
+    "squareMeter": "1546",
+    "addressLine": "Europaplads 2, 1.",
+    "zip": "8000",
+    "city": "Aarhus C",
+    "state": "Midtjylland",
+    "country": "Denmark",
+    "devices": [
+      {
+        "id": "571313115101040803",
+        "tags": {
+          "sensorType": "Eloverblik",
+          "valueType": "Cumulative",
+          "site": "Trifork",
+          "floor": "1",
+          "room": 0
+        }
+      },
+      {
+        "id": "571313115103602733",
+        "tags": {
+          "sensorType": "Eloverblik",
+          "valueType": "Cumulative",
+          "site": "Trifork",
+          "floor": "1",
+          "room": 0
+        }
+      },
+      {
+        "id": "571313115103341878",
+        "tags": {
+          "sensorType": "Eloverblik",
+          "valueType": "Cumulative",
+          "site": "Trifork",
+          "floor": "2",
+          "room": 0
+        }
+      },
+      {
+        "id": "571313115103452932",
+        "tags": {
+          "sensorType": "Eloverblik",
+          "valueType": "Cumulative",
+          "site": "Trifork",
+          "floor": "2",
+          "room": 0
+        }
+      }
+    ]
+  }
+]
